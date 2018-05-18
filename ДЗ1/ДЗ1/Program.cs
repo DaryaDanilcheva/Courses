@@ -13,15 +13,18 @@ namespace ДЗ1
             Fill();
             string player = "X";
             string a = "";
-            while ((a = Winner()) == stand)
+            for (int i = 0; i< n * n; i++)
             {
-                PlayerAction(player);
-                if (Winner() == stand)
-                    player = player == "X" ? "O" : "X";
-
-                //PlayerAction("O");
+                if ((a = Winner()) == stand)
+                {
+                    PlayerAction(player);
+                    if (Winner() == stand)
+                        player = player == "X" ? "O" : "X";
+                }
+                else
+                    break;
             }
-            Console.WriteLine("Победил игрок, ходящий знаком" + a);
+            Console.WriteLine("Победил игрок, ходящий знаком " + a);
 
             Console.ReadKey();
         }
