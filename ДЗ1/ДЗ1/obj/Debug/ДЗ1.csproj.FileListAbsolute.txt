@@ -1,0 +1,6 @@
+D:\курсы\ДЗ1\ДЗ1\bin\Debug\ДЗ1.exe.config
+D:\курсы\ДЗ1\ДЗ1\bin\Debug\ДЗ1.exe
+D:\курсы\ДЗ1\ДЗ1\bin\Debug\ДЗ1.pdb
+D:\курсы\ДЗ1\ДЗ1\obj\Debug\ДЗ1.csprojResolveAssemblyReference.cache
+D:\курсы\ДЗ1\ДЗ1\obj\Debug\ДЗ1.exe
+D:\курсы\ДЗ1\ДЗ1\obj\Debug\ДЗ1.pdb
