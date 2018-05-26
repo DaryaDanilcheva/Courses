@@ -1,0 +1,8 @@
+D:\курсы\ДЗ2\ДЗ2\bin\Debug\ДЗ2.exe.config
+D:\курсы\ДЗ2\ДЗ2\bin\Debug\ДЗ2.exe
+D:\курсы\ДЗ2\ДЗ2\bin\Debug\ДЗ2.pdb
+D:\курсы\ДЗ2\ДЗ2\obj\Debug\ДЗ2.Form1.resources
+D:\курсы\ДЗ2\ДЗ2\obj\Debug\ДЗ2.Properties.Resources.resources
+D:\курсы\ДЗ2\ДЗ2\obj\Debug\ДЗ2.csproj.GenerateResource.Cache
+D:\курсы\ДЗ2\ДЗ2\obj\Debug\ДЗ2.exe
+D:\курсы\ДЗ2\ДЗ2\obj\Debug\ДЗ2.pdb
